@@ -18,7 +18,7 @@ Realtime chat app using socket.io and vanilla JavaScript
 
 
 ## Installation 
-After download or clone run `npm install` to install all the dependancies.
+After download or clone run `npm install` to install all the dependancies After that Type `npm start`.
 
 
 
