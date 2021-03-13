@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Author-Devshimitsu-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Python-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-JavaScript-cyan?style=flat-square">
 </p>
 
 <p align="center"></p>
