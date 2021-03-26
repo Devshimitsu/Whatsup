@@ -13,7 +13,7 @@
 <p align="center"></p>
 
 
-# realtime-chat-app
+# WhatsUp
 Realtime chat app using socket.io and vanilla JavaScript
 
 
